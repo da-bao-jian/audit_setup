@@ -1,4 +1,3 @@
-### My audit setup with brownie testing suite and customized Slither functionalities
 
 To run, 
 ```
