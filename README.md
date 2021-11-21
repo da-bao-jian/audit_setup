@@ -4,9 +4,9 @@ To run,
 pip install -r requirement
 ```
 
-For testing, put contracts to `/contracts` folder, put tests into the `./tests` folder, then run
+For testing, move contracts to `/contracts` folder and tests to `./tests` folder, then run
 ```
-brownie test tests/<test .py file name>
+brownie test tests/<contract name>
 ```
 
 ### All the audit tools lives in `./utils`
