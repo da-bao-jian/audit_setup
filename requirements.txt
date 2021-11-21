@@ -1,0 +1,4 @@
+eth-brownie>=1.10.0,<2.0.0
+slither-analyzer >= 0.8.1
+wget
+solidity_parser 
