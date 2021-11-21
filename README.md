@@ -9,7 +9,7 @@ For testing, move contracts to `/contracts` folder and tests to `./tests` folder
 brownie test tests/<contract name>
 ```
 
-### All the audit scripts lives in `./utils`
+#### All the audit scripts live in `./utils`
 
 * To pull the original [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) contracts into `/contracts` folder for fixing compiler errors (only works if import statements starts with "@openzeppelin"):
     ```
